@@ -1,0 +1,97 @@
+:root{
+    --primary: #FF6663;
+    --secondary: #769AD0;
+    --dark: #333745;
+    --light: #f8fbef;
+    --highlight: #EBEBD3;
+  }
+
+html {
+    background-color: var(--light);
+}
+
+.hero.is-fullheight.landing {
+    /* background-image: url('https://images.unsplash.com/photo-1532616998070-8e189b324cb9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format'); 
+    background-image: url('../img/pexels-scott-webb-1022928.jpg');
+	*/
+    background-image: url('montessori.jpg.webp');
+	
+    background-size: cover;
+}
+
+.title.is-1 {
+    /* font-size: 10rem !important; */
+    color: var(--primary) !important;
+}
+
+.title.is-1.is-light {
+    font-size: 8rem !important;
+    color: var(--primary) !important;
+    background: var(--light);
+
+}
+
+.title.is-2 {
+    /* font-size: 10rem !important; */
+    color: var(--secondary) !important;
+}
+
+.title.is-2.is-primary {
+    /* font-size: 10rem !important; */
+    color: var(--primary) !important;
+    background: var(--light);
+}
+
+.title.is-3 {
+    /* font-size: 10rem !important; */
+    color: var(--secondary) !important;
+}
+
+.title.is-4 {
+    /* font-size: 10rem !important; */
+    color: var(--secondary) !important;
+}
+
+.title.is-4.is-primary {
+    /* font-size: 10rem !important; */
+    color: var(--primary) !important;
+    background: var(--light);
+}
+
+.button.is-light {
+    background-color: var(--light);
+    color: var(--primary);
+}
+
+.button.is-primary {
+    background-color: var(--primary);
+}
+
+.schedule-level-1 {
+    background-color: var(--highlight);
+    border-color: var(--light);
+    border-style: solid;
+    border-width: medium;
+    border-radius: 0.5cm;
+}
+
+.schedule-level-2 {
+    border-top-style:solid;
+    border-color: var(--light);
+    border-width: thin;
+}
+
+.first-author {
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.author {
+    font-style: oblique;
+}
+
+.title strong {
+	font-weight: bold !important;
+}
+
+/* f6f5f5 */
