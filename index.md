@@ -1,5 +1,5 @@
 <br>
 
-## Abstract
-Advancements in conversational systems have revolutionized information access, surpassing the limitations of single queries. 
-However, developing dialogue systems requires a large amount of training data, which is a challenge in low-resource domains and languages. Traditional data collection methods like crowd-sourcing are labor-intensive and time-consuming, making them ineffective in this context. Data augmentation (DA) is an affective approach to alleviate the data scarcity problem in conversational systems. This tutorial provides a comprehensive and up-to-date overview of DA approaches in the context of conversational systems. It highlights recent advances in conversation augmentation, open domain and task-oriented conversation generation, and different paradigms of evaluating these models. We also discuss current challenges and future directions in order to help researchers and practitioners to further advance the field in this area.
+## About
+The 22st Dutch-Belgian Information Retrieval (DIR) Workshop is a forum where researchers and practitioners in Information Retrieval come together to connect, exchange ideas, and discuss the latest developments in IR and related research areas. DIR has an established tradition dating back to the year 2000, making DIR2025 the 22st edition. Please find an incomplete list of earlier editions here
+[Prior Editions](https://www.informatiewetenschap.org/dir-history.html)
