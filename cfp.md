@@ -18,6 +18,8 @@ Please note that the special sessions have limited presentation slots available.
 
 # Important dates
 
-Submission: 
+Submission:
+
 Notification: 
+
 Presentation: October 27, 2025
