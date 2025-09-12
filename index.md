@@ -2,3 +2,12 @@
 
 ## About
 The 22nd Dutch-Belgian Information Retrieval (DIR) Workshop is a forum where researchers and practitioners in Information Retrieval come together to connect, exchange ideas, and discuss the latest developments in IR and related research areas. DIR has an established tradition dating back to the year 2000, making DIR2025 the 22nd edition. Please find an incomplete list of earlier editions [here](https://www.informatiewetenschap.org/dir-history.html)
+
+<br>
+
+## Keynotes
+We are proud to welcome two inspiring keynote speakers to DIR 2025:
+- **Keynote 1:** Dr. Asia Biega (Max Planck Institute for Security and Privacy)  
+- **Keynote 2:** To be announced  
+
+👉 Full details are available on the [Keynotes page](/dir2025/keynote/).
