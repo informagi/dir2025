@@ -24,7 +24,7 @@ Dr. Asia Biega is a computer scientist and a tenure-track faculty member at the 
 
 ---
 
-### Keynote 2 - [TBD]
-*Speaker to be announced*
+### Keynote 2 - Title to be announced
+*Prof. Thomas Demeester, Ghent University*
 
-_Abstract and bio will be added here once confirmed._
+_Abstract and bio will be added._
