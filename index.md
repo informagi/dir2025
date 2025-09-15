@@ -5,9 +5,20 @@ The 22nd Dutch-Belgian Information Retrieval (DIR) Workshop is a forum where res
 
 <br>
 
-## Keynotes
-We are proud to welcome two inspiring keynote speakers to DIR 2025:
-- **Keynote 1:** Dr. Asia Biega (Max Planck Institute for Security and Privacy)  
-- **Keynote 2:** To be announced  
+## Join Us at DIR 2025!
 
-👉 Full details are available on the [Keynotes page](/dir2025/keynote/).
+Be part of the 22nd Dutch-Belgian Information Retrieval Workshop at Radboud University, Nijmegen.  
+We warmly invite you to register and to share your latest research with the community.
+
+
+- [**Register here**](https://u1.survey.science.ru.nl/index.php/548355?lang=en)  
+  🗓️ **Registration deadline:** Monday 20 October 2025, 23:59 CEST  
+
+- [**Submit your work**](https://informagus.nl/dir2025/cfp)  
+  🗓️ **Submission deadline:** Friday 3 October 2025, 23:59 CEST  
+  🔔 **Notification:** Monday 13 October 2025  
+  🧾 **Camera-ready:** Friday 17 October 2025  
+
+<br>
+
+For any questions or problems regarding registration or submission of your work, please contact [mohanna.hoveyda@ru.nl](mailto:mohanna.hoveyda@ru.nl).
