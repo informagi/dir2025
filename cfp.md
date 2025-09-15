@@ -11,7 +11,14 @@ We invite you to submit contributions in three categories
 3. **Resources:** This refers to demos, datasets, experimental platforms (already presented at other venues) that are of interest to the IR community. We also welcome European projects seeking exposure among workshop attendees, ending this event, as well as aiming to foster new partnerships, and for recruiting purposes.
 
 
-Please submit your **contributions** by **submitting** the form [**here**](https://u1.survey.science.ru.nl/index.php/316587?lang=en)
+<p style="margin:1.5rem 0;">
+  <a href="https://u1.survey.science.ru.nl/index.php/316587?lang=en"
+     target="_blank" rel="noopener"
+     style="display:inline-block;padding:12px 20px;border-radius:8px;
+            background:#e57373;color:#fff;text-decoration:none;font-weight:600;">
+    Submit your contribution
+  </a>
+</p>
 
 Please note that the special sessions have limited presentation slots available. Our goal is to curate a diverse program that reflects the breadth of IR research across the Belgian and Dutch communities. Accepted contributions in the published work and research spotlight categories will receive a 15-minute oral presentation (12 minutes for presentation and 3 minutes for Q&A), while resources will be presented as posters.
 
