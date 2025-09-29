@@ -25,7 +25,7 @@ Please note that the special sessions have limited presentation slots available.
 
 # Important dates
 
-Submission: Friday 3 October 2025, 23:59 CEST 
+Submission: Friday 10 October 2025, 23:59 CEST 
 
 Notification: Monday 13 October 2025 
 
