@@ -15,7 +15,7 @@ We warmly invite you to register and to share your latest research with the comm
   🗓️ **Registration deadline:** Monday 20 October 2025, 23:59 CEST  
 
 - [**Submit your work**](https://informagus.nl/dir2025/cfp)  
-  🗓️ **Submission deadline:** Friday 3 October 2025, 23:59 CEST  
+  🗓️ **Submission deadline:** Friday 10 October 2025, 23:59 CEST  
   🔔 **Notification:** Monday 13 October 2025  
 <br>
 
