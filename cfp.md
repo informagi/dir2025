@@ -7,7 +7,7 @@ DIR 2025 will also feature special sessions shining a spotlight on the region's 
 We invite you to submit contributions in three categories
 
 1. **Published work:** Share your research papers published in the past year at IR-related venues like SIGIR, ECIR, ACM TWeb, and more.
-2. **Research spotlight:** This category aims to spotlight emerging research directions from young academics, i.e., assistant professors, in the region.
+2. **Research spotlight:** This category aims to spotlight emerging research directions from young academics in the region.
 3. **Resources:** This refers to demos, datasets, experimental platforms (already presented at other venues) that are of interest to the IR community. We also welcome European projects seeking exposure among workshop attendees, attending this event, as well as aiming to foster new partnerships, and for recruiting purposes.
 
 
