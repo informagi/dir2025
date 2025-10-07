@@ -27,6 +27,13 @@ Dr. Asia Biega is a computer scientist and a tenure-track faculty member at the 
 ### Keynote 2 - Multimodal Health Data: From Representation to Causal Understanding
 *Prof. Thomas Demeester, Ghent University*
 
+<p>
+  <img src="https://tdmeeste.github.io/images/thomas2.jpg"
+       alt="Dr. Asia Biega"
+       style="max-width:260px;height:auto;border-radius:8px;">
+</p>
+
+
 #### Keynote Abstract
 Healthcare generates rich observational data in multiple modalities—including tabular records, clinical notes, medical images, and others.  Effectively combining these modalities with expert knowledge, such as clinical rules and biomedical knowledge graphs, opens opportunities for predictive analytics, enhanced clinical decision support, and even answering causal questions. I aim to talk about our recent work in this area, including representation learning, information extraction, language model alignment, and causal effect estimation —with emphasis on the latter, as I strongly believe causal machine learning will only gain in importance in the future to support clinical practice and improve patient outcomes.
 
