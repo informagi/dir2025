@@ -24,7 +24,14 @@ Dr. Asia Biega is a computer scientist and a tenure-track faculty member at the 
 
 ---
 
-### Keynote 2 - Title to be announced
+### Keynote 2 - Multimodal Health Data: From Representation to Causal Understanding
 *Prof. Thomas Demeester, Ghent University*
 
-_Abstract and bio will be added._
+#### Keynote Abstract
+Healthcare generates rich observational data in multiple modalities—including tabular records, clinical notes, medical images, and others.  Effectively combining these modalities with expert knowledge, such as clinical rules and biomedical knowledge graphs, opens opportunities for predictive analytics, enhanced clinical decision support, and even answering causal questions. I aim to talk about our recent work in this area, including representation learning, information extraction, language model alignment, and causal effect estimation —with emphasis on the latter, as I strongly believe causal machine learning will only gain in importance in the future to support clinical practice and improve patient outcomes.
+
+#### Speaker Bio
+Thomas Demeester is an associate professor at the Internet Technology and Data Science Lab (IDLab), Ghent University - imec, Belgium, where he co-leads the Text-to-Knowledge research cluster. His research focuses on machine learning and AI with healthcare as a key application domain, exploring neuro-symbolic AI, energy-based models, diffusion models, and very recently causal inference. Thomas received his Ph.D. in electrical engineering from Ghent University in 2009,  after which he moved to computer science, working in Information Retrieval (with the organization of DIR2012 in Ghent), natural language processing, and machine learning, including a stay at University College London's Machine Reading lab in 2016. Since his appointment as assistant professor in 2019, he has built a research program bridging advanced machine learning and healthcare applications, collaborating with hospitals, biotech companies, and international research partners.
+
+---
+
