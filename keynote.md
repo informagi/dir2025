@@ -30,7 +30,7 @@ Dr. Asia Biega is a computer scientist and a tenure-track faculty member at the 
 <p>
   <img src="https://tdmeeste.github.io/images/thomas2.jpg"
        alt="Prof. Thomas Demeester"
-       style="max-width:260px;height:auto;border-radius:8px;">
+       style="max-width:260px;max-height:300px:auto;border-radius:8px;">
 </p>
 
 
