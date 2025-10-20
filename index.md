@@ -19,4 +19,13 @@ We warmly invite you to register and to share your latest research with the comm
   🔔 **Notification:** Monday 20 October 2025  
 <br>
 
+## Sponsors
+
+![SIGIR](logo_sigir.png) ACM Special Interest Group on Information Retrieval https://sigir.org
+
+![SIKS](logo_siks.png) School of Information and Knowledge Systems https://siks.nl
+
+
 For any questions or problems regarding registration or submission of your work, feel free to contact us at  [ruirlist@science.ru.nl](mailto:ruirlist@science.ru.nl).
+
+
