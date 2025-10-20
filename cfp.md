@@ -30,3 +30,13 @@ Submission: Friday 10 October 2025, 23:59 CEST
 Notification: Monday 20 October 2025 
 
 Presentation: October 27, 2025
+
+
+## Sponsors
+
+![SIGIR](logo_sigir.png)
+[ACM Special Interest Group on Information Retrieval](https://sigir.org)
+
+![SIKS](logo_siks.png)
+[School of Information and Knowledge Systems](https://siks.nl)
+
