@@ -9,7 +9,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>8:30 - 9:00</td>
+      <td>8:30-9:00</td>
       <td>Registration</td>
       <td>Maria Montesorigebouw Building, MM00.029</td>
     </tr>
