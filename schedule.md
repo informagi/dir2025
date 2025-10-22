@@ -59,6 +59,18 @@
             <td>Maastricht University</td>
             <td>VisualReF: Interactive Image Search Prototype with Visual Relevance Feedback</td>
           </tr>
+          <tr>
+            <td>11:15</td>
+            <td>Huy-Son Nguyen</td>
+            <td>TU Delft</td>
+            <td>A Reproducibility Study of Product-side Fairness in Bundle Recommendation</td>
+          </tr>
+          <tr>
+            <td>11:25</td>
+            <td>Junchen Fu</td>
+            <td>University of Glasgow</td>
+            <td>Advancing Efficient and Effective Adaptation of Multimodal Foundation Models for Recommender Systems</td>
+          </tr>
         </table>
       </td>
     </tr>
