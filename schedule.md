@@ -39,7 +39,7 @@
       <td>MM00.029</td>
     </tr>
     <tr>
-      <td colspan="5">
+      <td colspan="3">
         <table style="width:100%; border-collapse: collapse; margin-top: 5px;">
           <tr>
             <td>10:45</td>
@@ -64,12 +64,6 @@
             <td>Huy-Son Nguyen</td>
             <td>TU Delft</td>
             <td>A Reproducibility Study of Product-side Fairness in Bundle Recommendation</td>
-          </tr>
-          <tr>
-            <td>11:25</td>
-            <td>Junchen Fu</td>
-            <td>University of Glasgow</td>
-            <td>Advancing Efficient and Effective Adaptation of Multimodal Foundation Models for Recommender Systems</td>
           </tr>
         </table>
       </td>
