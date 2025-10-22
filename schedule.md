@@ -53,6 +53,12 @@
             <td>Leiden University</td>
             <td>How role-play shapes relevance judgment in zero-shot LLM rankers</td>
           </tr>
+           	<tr>
+            <td>11:05</td>
+            <td>Bulat Khaertdinov</td>
+            <td>Maastricht University</td>
+            <td>VisualReF: Interactive Image Search Prototype with Visual Relevance Feedback</td>
+          </tr>
         </table>
       </td>
     </tr>
