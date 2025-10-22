@@ -102,6 +102,48 @@
       <td>MM00.029</td>
     </tr>
     <tr>
+      <td colspan="3">
+        <table style="width:100%; border-collapse: collapse; margin-top: 5px; table-layout: fixed;">
+          <tr>
+            <td>14:00</td>
+            <td>Iva Gornishka & Laurens Samson</td>
+            <td>Amsterdam Municipality</td>
+            <td>Evaluating LLMs' environmental impact, performance and alignment with<br>societal values</td>
+          </tr>
+          <tr>
+            <td>14:10</td>
+            <td>Farrukh Baratov</td>
+            <td>Leiden University</td>
+            <td>Breaking Bureaucracy: Benchmarking open-source LLMs on legal document review</td>
+          </tr>
+          <tr>
+            <td>14:20</td>
+            <td>Jens Leysen</td>
+            <td>University of Antwerp</td>
+            <td>What Data is Really Necessary? A Feasibility Study of Inference Data<br>Minimization for Recommender Systems</td>
+          </tr>
+          <tr>
+            <td>14:30</td>
+            <td>Lifeng Han</td>
+            <td>Leiden University, LUMC</td>
+            <td>Summarisation of Clinical Documents using Perspective-Aware Iterative<br>Self-Prompting (PA-ISP) with LLMs</td>
+          </tr>
+          <tr>
+            <td>14:40</td>
+            <td>Heydar Soudani</td>
+            <td>Radboud University</td>
+            <td>Why Uncertainty Estimation Methods Fall Short in RAG: An Axiomatic Analysis</td>
+          </tr>
+          <tr>
+            <td>14:50</td>
+            <td>Len Feremans</td>
+            <td>University of Antwerp</td>
+            <td>Scalable Evaluation of Rule-Based Recommender Systems: Algorithms and Benchmarks</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
       <td>15:00-15:30</td>
       <td>Coffee Break</td>
       <td>Grand Cafe Iris</td>
