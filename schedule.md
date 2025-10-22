@@ -1,10 +1,17 @@
 <div>
-<table style="table-layout: fixed; width: 100%;">
-  <tr>
-    <th style="width: 30%;">Time</th>
-    <th style="width: 60%;">Information</th>
-    <th style="width: 10%;">Where</th>
-  </tr>
+<table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
+  <colgroup>
+    <col style="width: 30%;">
+    <col style="width: 60%;">
+    <col style="width: 10%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Information</th>
+      <th>Where</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td>8:30-9:00</td>
