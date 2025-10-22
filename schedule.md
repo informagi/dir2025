@@ -8,8 +8,8 @@
   <tbody>
     <tr>
       <td>8:30-9:00</td>
-      <td>Registration</td>
-      <td>Maria Montesorigebouw Building, MM00.029</td>
+      <td>Registration (Maria Montesorigebouw Building)</td>
+      <td> MM00.029</td>
     </tr>
     <tr>
       <td>9:00-9:15</td>
