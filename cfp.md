@@ -10,7 +10,7 @@ We invite you to submit contributions in three categories
 2. **Research spotlight:** This category aims to spotlight emerging research directions from young academics in the region.
 3. **Resources:** This refers to demos, datasets, experimental platforms (already presented at other venues) that are of interest to the IR community. We also welcome European projects seeking exposure among workshop attendees, attending this event, as well as aiming to foster new partnerships, and for recruiting purposes.
 
-<p style="margin:1.5rem 0;display:inline-block;padding:12px 20px;border-radius:8px;background:#e57373;color:#fff;text-decoration:none;font-weight:600;">
+<p style="margin:1.5rem 0;display:inline-block;padding:12px 20px;border-radius:8px;background:#e57373;color:#fff;text-decoration:line-through;font-weight:600;">
   Submit your contribution
 </p>
 
