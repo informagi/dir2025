@@ -4,12 +4,6 @@
 | 8:30 - 9:00   | Registration    | | Maria Montesorigebouw Building, MM00.029 |
 | 9:00 - 9:15   | Opening         | | |
 | 9:15 - 10:15  | Keynote #1      | | |
-<details>
-<summary>Details for Keynote #1</summary>
-Speaker: Dr. Jane Doe  
-Topic: The Future of Conversational AI  
-Abstract: This keynote explores large language models and their role in retrieval-augmented generation.
-</details>
 | 10:15 - 10:45 | Coffee break    | | |
 | 10:45 - 12:00 | Oral Session #1 | | |
 | 12:00 - 13:00 | Lunch           | | |
