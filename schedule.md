@@ -192,7 +192,7 @@
           <table style="width:100%; border-collapse: collapse; margin-top: 5px; table-layout: fixed;">
             <tr>
               <td>Mert Yazan</td>
-              <td>Hogeschool van Amsterdam</td>
+              <td>Hogeschool van<br>Amsterdam</td>
               <td>The New Paradigm of Information Search: LLMs and Web Search in Tandem</td>
             </tr>
             <tr>
@@ -237,7 +237,7 @@
             </tr>
             <tr>
               <td>Martan van der Straaten</td>
-              <td>Radboud University, Spinque</td>
+              <td>Radboud University,<br>Spinque</td>
               <td>Efficient Dutch Query-Focussed Summarization for Domain-Specific Data</td>
             </tr>
             <tr>
