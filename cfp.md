@@ -11,7 +11,7 @@ We invite you to submit contributions in three categories
 3. **Resources:** This refers to demos, datasets, experimental platforms (already presented at other venues) that are of interest to the IR community. We also welcome European projects seeking exposure among workshop attendees, attending this event, as well as aiming to foster new partnerships, and for recruiting purposes.
 
 <p style="margin:1.5rem 0;display:inline-block;padding:12px 20px;border-radius:8px;background:#e57373;color:#fff;text-decoration:none;font-weight:600;">
-  ~~Submit your contribution~~
+  Submit your contribution
 </p>
 
 Please note that the special sessions have limited presentation slots available. Our goal is to curate a diverse program that reflects the breadth of IR research across the Belgian and Dutch communities. Contributions can be accepted as 10-minute oral presentation (8 minutes for presentation and 2 minutes for Q&A) or as poster presentations.
