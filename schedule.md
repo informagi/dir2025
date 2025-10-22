@@ -198,7 +198,7 @@
             <tr>
               <td>I-Fan Lin</td>
               <td>Leiden University</td>
-              <td>TWIST: Training-free and Label-free Short Text Clustering through Iterative Vector Updating with LLMs</td>
+              <td>TWIST: Training-free and Label-free Short Text Clustering through Iterative Vector<br>Updating with LLMs</td>
             </tr>
             <tr>
               <td>Juan Pablo Bascur</td>
@@ -213,7 +213,7 @@
             <tr>
               <td>Daria Alexander</td>
               <td>Radboud University</td>
-              <td>In a Few Words: Comparing Weak Supervision and LLMs for Short Query Intent Classification</td>
+              <td>In a Few Words: Comparing Weak Supervision and LLMs for Short Query Intent<br>Classification</td>
             </tr>
             <tr>
               <td>Djoerd Hiemstra</td>
