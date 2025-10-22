@@ -188,6 +188,72 @@
       <td>Grand Cafe Iris</td>
     </tr>
     <tr>
+      <td colspan="3">
+          <table style="width:100%; border-collapse: collapse; margin-top: 5px; table-layout: fixed;">
+            <tr>
+              <td>Mert Yazan</td>
+              <td>Hogeschool van Amsterdam</td>
+              <td>The New Paradigm of Information Search: LLMs and Web Search in Tandem</td>
+            </tr>
+            <tr>
+              <td>I-Fan Lin</td>
+              <td>Leiden University</td>
+              <td>TWIST: Training-free and Label-free Short Text Clustering through Iterative Vector Updating with LLMs</td>
+            </tr>
+            <tr>
+              <td>Juan Pablo Bascur</td>
+              <td>Leiden University</td>
+              <td>Use of diverse data sources to control which topics emerge in a science map</td>
+            </tr>
+            <tr>
+              <td>Jujia Zhao</td>
+              <td>Leiden University</td>
+              <td>Unifying Search and Recommendation in LLMs via Gradient Multi-Subspace Tuning</td>
+            </tr>
+            <tr>
+              <td>Daria Alexander</td>
+              <td>Radboud University</td>
+              <td>In a Few Words: Comparing Weak Supervision and LLMs for Short Query Intent Classification</td>
+            </tr>
+            <tr>
+              <td>Djoerd Hiemstra</td>
+              <td>Radboud University</td>
+              <td>Score-Fitted Indexes and Constant Length Indexes for Information Retrieval</td>
+            </tr>
+            <tr>
+              <td>Harrie Oosterhuis</td>
+              <td>Radboud University</td>
+              <td>Optimizing Compound Retrieval Systems</td>
+            </tr>
+            <tr>
+              <td>Heydar Soudani</td>
+              <td>Radboud University</td>
+              <td>Uncertainty Quantification for Retrieval-Augmented Reasoning</td>
+            </tr>
+            <tr>
+              <td>Oscar Ramirez</td>
+              <td>Radboud University</td>
+              <td>Epistemic Click Models</td>
+            </tr>
+            <tr>
+              <td>Martan van der Straaten</td>
+              <td>Radboud University, Spinque</td>
+              <td>Efficient Dutch Query-Focussed Summarization for Domain-Specific Data</td>
+            </tr>
+            <tr>
+              <td>Maik Larooij</td>
+              <td>University of Amsterdam</td>
+              <td>A collection of FAIR Dutch Freedom of Information Act documents</td>
+            </tr>
+            <tr>
+              <td>Yougang Lyu</td>
+              <td>University of Amsterdam</td>
+              <td>DeepShop: A Benchmark for Deep Research Shopping Agents</td>
+            </tr>
+          </table>
+      </td>
+    </tr>
+    <tr>
       <td>16:30-18:00</td>
       <td>Drinks (Overlap with Poster Session)</td>
       <td>Grand Cafe Iris</td>
