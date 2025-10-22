@@ -25,7 +25,7 @@
     </tr>
     <tr>
       <td>9:15-10:15</td>
-      <td>Keynote: Thomas Demeester, Multimodal Health Data: From Representation to Causal Understanding</td>
+      <td>Keynote: Thomas Demeester<br>Multimodal Health Data: From Representation to Causal Understanding</td>
       <td>MM00.029</td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@
     </tr>
     <tr>
       <td>13:00-14:00</td>
-      <td>Keynote: Asia Biega, From regulations to implementations: Building information access systems in the public interest</td>
+      <td>Keynote: Asia Biega<br>From regulations to implementations: Building information access systems in the public interest</td>
       <td>MM00.029</td>
     </tr>
     <tr>
