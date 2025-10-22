@@ -40,18 +40,18 @@
     </tr>
     <tr>
       <td colspan="3">
-        <table style="width:100%; border-collapse: collapse; margin-top: 5px;">
+        <table style="width:100%; border-collapse: collapse; margin-top: 2px;">
           <tr>
-            <th>Presenter</th>
-            <th>Title</th>
+            <td>10:45</td>
+            <td>Gijs Hendriksen</td>
+            <td>Radboud University</td>
+            <td>Selective Search as a First-Stage Retriever</td>
           </tr>
           <tr>
-            <td>John Doe</td>
-            <td>Advances in Conversational AI</td>
-          </tr>
-          <tr>
-            <td>Jane Smith</td>
-            <td>Retrieval-Augmented Generation in Practice</td>
+            <td>10:55</td>
+            <td>Yumeng Wang</td>
+            <td>Leiden University</td>
+            <td>How role-play shapes relevance judgment in zero-shot LLM rankers</td>
           </tr>
         </table>
       </td>
