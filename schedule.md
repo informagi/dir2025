@@ -263,3 +263,4 @@
 </div>
 
 
+**Oral presentations each have 8 minutes for their presentation.**
