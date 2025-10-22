@@ -66,7 +66,6 @@
     <tr>
       <td>16:05 - 17:00</td>
       <td>Poster Session</td>
-      <td></td>
       <td>Grand Cafe Iris</td>
     </tr>
     <tr>
