@@ -1,4 +1,4 @@
-<div style="overflow-x:auto;">
+<div>
 <table style="white-space: nowrap;">
   <thead>
     <tr>
