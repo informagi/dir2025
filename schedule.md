@@ -1,9 +1,9 @@
 <div>
 <table class="force-layout">
   <colgroup>
-    <col style="width:10%">
-    <col style="width:65%">
-    <col style="width:25%">
+    <col style="width:13%">
+    <col style="width:67%">
+    <col style="width:20%">
   </colgroup>
   <thead>
     <tr>
