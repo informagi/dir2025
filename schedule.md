@@ -2,8 +2,8 @@
 <table class="force-layout">
   <colgroup>
     <col style="width:13%">
-    <col style="width:67%">
-    <col style="width:20%">
+    <col style="width:70%">
+    <col style="width:17%">
   </colgroup>
   <thead>
     <tr>
