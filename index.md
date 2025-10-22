@@ -11,9 +11,8 @@ Be part of the 22nd Dutch-Belgian Information Retrieval Workshop at Radboud Univ
 We warmly invite you to register and to share your latest research with the community.
 
 
-- ~~**Register here**~~ <span style="color:red;">Registration is closed.</span>
-
-  🗓️ **Registration deadline:** Monday 20 October 2025, 23:59 CEST  
+- ~~**Register here**~~ <span style="color:red;">Registration is closed.</span><br>
+  🗓️ **Registration deadline:** Monday 20 October 2025, 23:59 CEST
 
 - [**Submit your work**](https://informagus.nl/dir2025/cfp)  
   🗓️ **Submission deadline:** Friday 10 October 2025, 23:59 CEST  
