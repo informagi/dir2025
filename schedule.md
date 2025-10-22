@@ -53,6 +53,36 @@
             <td>Leiden University</td>
             <td>How role-play shapes relevance judgment in zero-shot LLM rankers</td>
           </tr>
+          <tr>
+            <td>11:05</td>
+            <td>Bulat Khaertdinov</td>
+            <td>Maastricht University</td>
+            <td>VisualReF: Interactive Image Search Prototype with Visual Relevance Feedback</td>
+          </tr>
+          <tr>
+            <td>11:15</td>
+            <td>Huy-Son Nguyen</td>
+            <td>TU Delft</td>
+            <td>A Reproducibility Study of Product-side Fairness in Bundle Recommendation</td>
+          </tr>
+          <tr>
+            <td>11:25</td>
+            <td>Junchen Fu</td>
+            <td>University of Glasgow</td>
+            <td>Advancing Efficient and Effective Adaptation of Multimodal Foundation Models for Recommender Systems</td>
+          </tr>
+          <tr>
+            <td>11:35</td>
+            <td>Mohanna Hoveyda</td>
+            <td>Radboud University</td>
+            <td>Adaptive Orchestration of Modular Generative Information Access Systems</td>
+          </tr>
+          <tr>
+            <td>11:45</td>
+            <td>Jaap Kamps</td>
+            <td>University of Amsterdam</td>
+            <td>Context Embeddings for Efficient Answer Generation in Retrieval-Augmented Generation (WSDM 2025)</td>
+          </tr>
         </table>
       </td>
     </tr>
