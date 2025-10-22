@@ -138,7 +138,7 @@
             <td>14:50</td>
             <td>Len Feremans</td>
             <td>University of Antwerp</td>
-            <td>Scalable Evaluation of Rule-Based Recommender Systems: Algorithms and Benchmarks</td>
+            <td>Scalable Evaluation of Rule-Based Recommender Systems: Algorithms and<br>Benchmarks</td>
           </tr>
         </table>
       </td>
