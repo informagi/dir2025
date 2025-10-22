@@ -1,8 +1,8 @@
 | Time               | Section          | Where | 
 | ------------- | ------------- | ------------- |
-| 8:30-9:00    | Registration    |  Maria Montesorigebouw Building, MM00.029 |
+| 8:30-9:00    | Registration (Maria Montesorigebouw Building) | MM00.029 |
 | 9:00-9:15     | Opening          |  MM00.029 |
-| 9:15-10:15    | Keynote: Thomas Demeester | Multimodal Health Data: From Representation to Causal Understanding | MM00.029 |
+| 9:15-10:15    | Keynote: Thomas Demeester, Multimodal Health Data: From Representation to Causal Understanding | MM00.029 |
 | 10:15-10:45  | Coffee break    |  Grand Cafe Iris |
 | 10:45-12:00 | Oral Session #1 | MM00.029 |
 | 12:00-13:00 | Lunch           | Grand Cafe Iris |
