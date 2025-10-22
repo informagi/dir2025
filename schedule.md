@@ -69,7 +69,19 @@
             <td>11:25</td>
             <td>Junchen Fu</td>
             <td>University of Glasgow</td>
-            <td >Advancing Efficient and Effective Adaptation of <br>Multimodal Foundation Models for Recommender Systems</td>
+            <td >Advancing Efficient and Effective Adaptation of Multimodal Foundation<br>Models for Recommender Systems</td>
+          </tr>
+          <tr>
+            <td>11:35</td>
+            <td>Mohanna Hoveyda</td>
+            <td>Radboud University</td>
+            <td>Adaptive Orchestration of Modular Generative Information Access Systems</td>
+          </tr>
+          <tr>
+            <td>11:45</td>
+            <td>Jaap Kamps</td>
+            <td>University of Amsterdam</td>
+            <td>Context Embeddings for Efficient Answer Generation in Retrieval-Augmented<br>Generation</td>
           </tr>
         </table>
       </td>
