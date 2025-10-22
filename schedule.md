@@ -39,7 +39,7 @@
       <td>MM00.029</td>
     </tr>
     <tr>
-      <td colspan="3">
+      <td colspan="5">
         <table style="width:100%; border-collapse: collapse; margin-top: 5px;">
           <tr>
             <td>10:45</td>
