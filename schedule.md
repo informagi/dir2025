@@ -1,5 +1,5 @@
 <div>
-<table>
+<table style="table-layout: fixed; width: 100%;">
   <tr>
     <th style="width: 30%;">Time</th>
     <th style="width: 60%;">Information</th>
