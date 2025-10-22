@@ -106,7 +106,7 @@
         <table style="width:100%; border-collapse: collapse; margin-top: 5px; table-layout: fixed;">
           <tr>
             <td>14:00</td>
-            <td>Iva Gornishka & Laurens Samson</td>
+            <td>Iva Gornishka &<br>Laurens Samson</td>
             <td>Amsterdam Municipality</td>
             <td>Evaluating LLMs' environmental impact, performance and alignment with<br>societal values</td>
           </tr>
