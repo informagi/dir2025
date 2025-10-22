@@ -2,8 +2,8 @@
 <table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
   <colgroup>
     <col style="width: 30%;">
-    <col style="width: 60%;">
-    <col style="width: 10%;">
+    <col style="width: 40%;">
+    <col style="width: 30%;">
   </colgroup>
   <thead>
     <tr>
