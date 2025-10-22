@@ -1,32 +1,3 @@
-<style>
-  /* High-specificity + !important to beat frameworks */
-  table.force-layout {
-    width: 100% !important;
-    table-layout: fixed !important;
-    border-collapse: collapse;
-  }
-  table.force-layout th,
-  table.force-layout td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    box-sizing: border-box;            /* keeps widths exact */
-    overflow: hidden;                  /* prevents column blowout */
-    text-overflow: ellipsis;           /* show … when no wrap */
-    white-space: nowrap;               /* keep one-line by default */
-  }
-
-  /* If you want the middle column to wrap instead of ellipsis: */
-  table.force-layout th:nth-child(2),
-  table.force-layout td:nth-child(2) {
-    white-space: normal;               /* allow wrapping */
-    overflow-wrap: anywhere;           /* break very long tokens */
-    word-break: break-word;            /* legacy break */
-  }
-</style>
-
-
-
-
 <div>
 <table class="force-layout">
   <colgroup>
