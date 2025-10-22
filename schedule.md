@@ -172,7 +172,7 @@
               <td>15:50</td>
               <td>Thorsten Krause</td>
               <td>Radboud University</td>
-              <td>A Non-Parametric Choice Model That Learns How Users Choose Between Recommended<br>Options</td>
+              <td>A Non-Parametric Choice Model That Learns How Users Choose Between<br>Recommended Options</td>
             </tr>
           </table>
       </td>
