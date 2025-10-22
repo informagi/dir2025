@@ -2,9 +2,6 @@
 <table>
   <thead>
     <tr>
-      <th>Time</th>
-      <th>Section</th>
-      <th>Where</th>
     <th style="width: 25%;">Time</th>
     <th style="width: 60%;”>Section</th>
     <th style="width: 15%;”>Where</th>
