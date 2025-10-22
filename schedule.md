@@ -40,7 +40,14 @@
     </tr>
     <tr>
       <td colspan="3">
-        <table style="width:100%; border-collapse: collapse; margin-top: 5px;">
+        <table class="force-layout">
+          <colgroup>
+            <col style="width:13%">
+            <col style="width:35%">
+            <col style="width:35%">
+            <col style="width:17%">
+          </colgroup>
+          <tbody>
           <tr>
             <td>10:45</td>
             <td>Gijs Hendriksen</td>
@@ -65,6 +72,7 @@
             <td>TU Delft</td>
             <td>A Reproducibility Study of Product-side Fairness in Bundle Recommendation</td>
           </tr>
+          <tbody>
         </table>
       </td>
     </tr>
