@@ -1,3 +1,32 @@
+<div style="overflow-x:auto;">
+<table style="white-space: nowrap;">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Section</th>
+      <th>Information</th>
+      <th>Where</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8:30 - 9:00</td>
+      <td>Registration</td>
+      <td></td>
+      <td>Maria Montesorigebouw Building, MM00.029</td>
+    </tr>
+    <tr>
+      <td>9:00 - 9:15</td>
+      <td>Opening</td>
+      <td></td>
+      <td>MM00.029</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
 
 | Time          | Section         | Information   | Where | 
 | ------------- | --------------- | ------------- | ------------- |
