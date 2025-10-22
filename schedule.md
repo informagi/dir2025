@@ -66,10 +66,10 @@
             <td>A Reproducibility Study of Product-side Fairness in Bundle Recommendation</td>
           </tr>
           <tr>
-            <td>11:25</td>
-            <td>Junchen Fu</td>
-            <td>University of Glasgow</td>
-            <td>Advancing Efficient and Effective Adaptation of Multimodal Foundation Models for Recommender Systems</td>
+            <td style="width:10%; word-wrap: break-word;">11:25</td>
+            <td style="width:20%; word-wrap: break-word;">Junchen Fu</td>
+            <td style="width:20%; word-wrap: break-word;">University of Glasgow</td>
+            <td style="width:50%; word-wrap: break-word;">Advancing Efficient and Effective Adaptation of Multimodal Foundation Models for Recommender Systems</td>
           </tr>
         </table>
       </td>
