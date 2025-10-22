@@ -1,12 +1,10 @@
 <div>
 <table>
-  <thead>
-    <tr>
+  <tr>
     <th style="width: 25%;">Time</th>
-    <th style="width: 60%;”>Information</th>
-    <th style="width: 15%;”>Where</th>
-    </tr>
-  </thead>
+    <th style="width: 60%;">Information</th>
+    <th style="width: 15%;">Where</th>
+  </tr>
   <tbody>
     <tr>
       <td>8:30-9:00</td>
