@@ -39,6 +39,24 @@
       <td>MM00.029</td>
     </tr>
     <tr>
+      <td colspan="3">
+        <table style="width:100%; border-collapse: collapse; margin-top: 5px;">
+          <tr>
+            <th>Presenter</th>
+            <th>Title</th>
+          </tr>
+          <tr>
+            <td>John Doe</td>
+            <td>Advances in Conversational AI</td>
+          </tr>
+          <tr>
+            <td>Jane Smith</td>
+            <td>Retrieval-Augmented Generation in Practice</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
       <td>12:00-13:00</td>
       <td>Lunch</td>
       <td>Grand Cafe Iris</td>
