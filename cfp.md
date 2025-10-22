@@ -12,7 +12,7 @@ We invite you to submit contributions in three categories
 
 
 <p style="margin:1.5rem 0;">
-  <a href="https://u1.survey.science.ru.nl/index.php/316587?lang=en"
+  <a href=""
      target="_blank" rel="noopener"
      style="display:inline-block;padding:12px 20px;border-radius:8px;
             background:#e57373;color:#fff;text-decoration:none;font-weight:600;">
@@ -20,7 +20,7 @@ We invite you to submit contributions in three categories
   </a>
 </p>
 
-Please note that the special sessions have limited presentation slots available. Our goal is to curate a diverse program that reflects the breadth of IR research across the Belgian and Dutch communities. Accepted contributions in the published work and research spotlight categories will receive a 15-minute oral presentation (12 minutes for presentation and 3 minutes for Q&A), while resources will be presented as posters.
+Please note that the special sessions have limited presentation slots available. Our goal is to curate a diverse program that reflects the breadth of IR research across the Belgian and Dutch communities. Contributions can be accepted as 10-minute oral presentation (8 minutes for presentation and 2 minutes for Q&A) or as poster presentations.
 
 
 # Important dates
