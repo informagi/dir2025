@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td colspan="3">
-        <table border-collapse: collapse;">
+        <table style="width:100%; border-collapse: collapse; margin-top: 5px;">
           <tr>
             <td>10:45</td>
             <td>Gijs Hendriksen</td>
