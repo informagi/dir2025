@@ -42,10 +42,10 @@
       <td colspan="3">
         <table style="width:100%; border-collapse: collapse; margin-top: 5px; table-layout: fixed;">
           <tr>
-            <td style="width:10%; word-wrap: break-word;">10:45</td>
-            <td style="width:20%; word-wrap: break-word;">Gijs Hendriksen</td>
-            <td style="width:20%; word-wrap: break-word;">Radboud University</td>
-            <td style="width:50%; word-wrap: break-word;">Selective Search as a First-Stage Retriever</td>
+            <td>10:45</td>
+            <td>Gijs Hendriksen</td>
+            <td>Radboud University</td>
+            <td>Selective Search as a First-Stage Retriever</td>
           </tr>
           <tr>
             <td>10:55</td>
