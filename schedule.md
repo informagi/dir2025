@@ -1,9 +1,9 @@
 <div>
 <table>
   <tr>
-    <th style="width: 25%;">Time</th>
+    <th style="width: 30%;">Time</th>
     <th style="width: 60%;">Information</th>
-    <th style="width: 15%;">Where</th>
+    <th style="width: 10%;">Where</th>
   </tr>
   <tbody>
     <tr>
