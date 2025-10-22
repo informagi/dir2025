@@ -21,25 +21,72 @@
       <td></td>
       <td>MM00.029</td>
     </tr>
+    <tr>
+      <td>9:15 - 10:15</td>
+      <td>Keynote: Thomas Demeester</td>
+      <td>Multimodal Health Data: From Representation to Causal Understanding</td>
+      <td>MM00.029</td>
+    </tr>
+    <tr>
+      <td>10:15 - 10:45</td>
+      <td>Coffee Break</td>
+      <td></td>
+      <td>Grand Cafe Iris</td>
+    </tr>
+    <tr>
+      <td>10:45 - 12:00</td>
+      <td>Oral Session #1</td>
+      <td></td>
+      <td>MM00.029</td>
+    </tr>
+    <tr>
+      <td>12:00 - 13:00</td>
+      <td>Lunch</td>
+      <td></td>
+      <td>Grand Cafe Iris</td>
+    </tr>
+    <tr>
+      <td>13:00 - 14:00</td>
+      <td>Keynote: Asia Biega</td>
+      <td>From regulations to implementations: Building information access systems in the public interest</td>
+      <td>MM00.029</td>
+    </tr>
+    <tr>
+      <td>14:00 - 15:00</td>
+      <td>Oral Session #2</td>
+      <td></td>
+      <td>MM00.029</td>
+    </tr>
+    <tr>
+      <td>15:00 - 15:30</td>
+      <td>Coffee Break</td>
+      <td></td>
+      <td>Grand Cafe Iris</td>
+    </tr>
+    <tr>
+      <td>15:30 - 16:00</td>
+      <td>Oral Session #3</td>
+      <td></td>
+      <td>MM00.029</td>
+    </tr>
+    <tr>
+      <td>16:00 - 16:05</td>
+      <td>Closing Session</td>
+      <td></td>
+      <td>MM00.029</td>
+    </tr>
+    <tr>
+      <td>16:05 - 17:00</td>
+      <td>Poster Session</td>
+      <td></td>
+      <td>Grand Cafe Iris</td>
+    </tr>
+    <tr>
+      <td>16:30 - 18:00</td>
+      <td>Drinks</td>
+      <td>(Overlap with Poster Session)</td>
+      <td>Grand Cafe Iris</td>
+    </tr>
   </tbody>
 </table>
 </div>
-
-
-
-
-| Time          | Section         | Information   | Where | 
-| ------------- | --------------- | ------------- | ------------- |
-| 8:30 - 9:00   | Registration    | | Maria Montesorigebouw Building, MM00.029 |
-| 9:00 - 9:15   | Opening         | | MM00.029 |
-| 9:15 - 10:15  | Keynote: Thomas Demeester | Multimodal Health Data: From Representation to Causal Understanding | MM00.029 |
-| 10:15 - 10:45 | Coffee break    | | Grand Cafe Iris |
-| 10:45 - 12:00 | Oral Session #1 | | MM00.029 |
-| 12:00 - 13:00 | Lunch           | | Grand Cafe Iris |
-| 13:00 - 14:00 | Keynote: Asia Biega | From regulations to implementations: Building information access systems in the public interest  | MM00.029 |
-| 14:00 - 15:00 | Oral Session #2 | | MM00.029 |
-| 15:00 - 15:30 | Coffee Break    | | Grand Cafe Iris |
-| 15:30 - 16:00 | Oral Session #3 | | MM00.029 |
-| 16:00 - 16:05 | Closing Session | | MM00.029 |
-| 16:05 - 17:00 | Poster Session  | | Grand Cafe Iris |
-| 16:30 - 18:00 | Drinks          | (Overlap with Poster Session) | Grand Cafe Iris |
