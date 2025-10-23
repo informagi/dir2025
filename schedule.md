@@ -33,7 +33,7 @@
       <td>Coffee Break</td>
       <td>Grand Cafe Iris</td>
     </tr>
-    <tr>
+    <tr style="background-color: #c5e1fa;">
       <td>10:45-12:00</td>
       <td>Oral Session #1</td>
       <td>MM00.029</td>
@@ -86,17 +86,17 @@
         </table>
       </td>
     </tr>
-    <tr>
+    <tr style="background-color: #e0f2ff;">
       <td>12:00-13:00</td>
       <td>Lunch</td>
       <td>Grand Cafe Iris</td>
     </tr>
-    <tr>
+    <tr style="background-color: #c5e1fa;">
       <td>13:00-14:00</td>
       <td>Keynote: Asia Biega<br>From regulations to implementations: Building information access systems in the public interest</td>
       <td>MM00.029</td>
     </tr>
-    <tr>
+    <tr style="background-color: #e0f2ff;">
       <td>14:00-15:00</td>
       <td>Oral Session #2</td>
       <td>MM00.029</td>
@@ -143,12 +143,12 @@
         </table>
       </td>
     </tr>
-    <tr>
+    <tr style="background-color: #c5e1fa;">
       <td>15:00-15:30</td>
       <td>Coffee Break</td>
       <td>Grand Cafe Iris</td>
     </tr>
-    <tr>
+    <tr style="background-color: #e0f2ff;">
       <td>15:30-16:00</td>
       <td>Oral Session #3</td>
       <td>MM00.029</td>
@@ -177,12 +177,12 @@
           </table>
       </td>
     </tr>
-    <tr>
+    <tr style="background-color: #c5e1fa;">
       <td>16:00-16:05</td>
       <td>Closing Session</td>
       <td>MM00.029</td>
     </tr>
-    <tr>
+    <tr style="background-color: #e0f2ff;">
       <td>16:05-17:00</td>
       <td>Poster Session</td>
       <td>Grand Cafe Iris</td>
@@ -253,7 +253,7 @@
           </table>
       </td>
     </tr>
-    <tr>
+    <tr style="background-color: #c5e1fa;">
       <td>16:30-18:00</td>
       <td>Drinks (Overlap with Poster Session)</td>
       <td>Grand Cafe Iris</td>
