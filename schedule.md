@@ -13,7 +13,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr style="background-color: #90caf9;">
+    <tr style="background-color: #c5e1fa;">
       <td>8:30-9:00</td>
       <td>Registration (Maria Montesorigebouw Building)</td>
       <td> MM00.029</td>
@@ -23,7 +23,7 @@
       <td>Opening</td>
       <td>MM00.029</td>
     </tr>
-    <tr style="background-color: #90caf9;">
+    <tr style="background-color: #c5e1fa;">
       <td>9:15-10:15</td>
       <td>Keynote: Thomas Demeester<br>Multimodal Health Data: From Representation to Causal Understanding</td>
       <td>MM00.029</td>
