@@ -5,7 +5,7 @@
     <col style="width:70%">
     <col style="width:17%">
   </colgroup>
-  <thead>
+  <thead style="background-color: #1565c0;">
     <tr>
       <th>Time</th>
       <th>Information</th>
