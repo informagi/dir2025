@@ -5,7 +5,7 @@
     <col style="width:70%">
     <col style="width:17%">
   </colgroup>
-  <thead class="bg-blue-700 text-white">
+  <thead style="background-color: #1565c0; color: white;">
     <tr>
       <th>Time</th>
       <th>Information</th>
@@ -13,7 +13,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr style="background-color: #90caf9;">
       <td>8:30-9:00</td>
       <td>Registration (Maria Montesorigebouw Building)</td>
       <td> MM00.029</td>
