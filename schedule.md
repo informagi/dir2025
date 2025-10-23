@@ -160,13 +160,13 @@
               <td>15:30</td>
               <td>Alain Starke</td>
               <td>University of Amsterdam</td>
-              <td>Why we still need user studies: Using Energy Recommender System Research to<br>Support Behavioral Change</td>
+              <td>Why we still need user studies: Using Energy Recommender System Research<br>to Support Behavioral Change</td>
             </tr>
             <tr>
               <td>15:40</td>
               <td>Bruno Nadalic Sotic</td>
               <td>University of Amsterdam</td>
-              <td>What Makes a User Click on a News Item? Understanding News Values of Visual<br>Content in News Recommendation</td>
+              <td>What Makes a User Click on a News Item? Understanding News Values of<br>Visual Content in News Recommendation</td>
             </tr>
             <tr>
               <td>15:50</td>
