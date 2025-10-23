@@ -18,17 +18,17 @@
       <td>Registration (Maria Montesorigebouw Building)</td>
       <td> MM00.029</td>
     </tr>
-    <tr>
+    <tr style="background-color: #e0f2ff;">
       <td>9:00-9:15</td>
       <td>Opening</td>
       <td>MM00.029</td>
     </tr>
-    <tr>
+    <tr style="background-color: #90caf9;">
       <td>9:15-10:15</td>
       <td>Keynote: Thomas Demeester<br>Multimodal Health Data: From Representation to Causal Understanding</td>
       <td>MM00.029</td>
     </tr>
-    <tr>
+    <tr style="background-color: #e0f2ff;">
       <td>10:15-10:45</td>
       <td>Coffee Break</td>
       <td>Grand Cafe Iris</td>
