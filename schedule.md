@@ -38,7 +38,7 @@
       <td>Oral Session #1</td>
       <td>MM00.029</td>
     </tr>
-    <tr style="background-color: #e0e0e0;">
+    <tr style="background-color: #f5f5f5;">
       <td colspan="3">
         <table style="width:100%; border-collapse: collapse; margin-top: 5px; table-layout: fixed;">
           <tr>
