@@ -8,7 +8,7 @@
   <thead style="background-color: #1565c0; color: white;">
     <tr>
       <th>Time</th>
-      <th>Information</th>
+      <th>Title</th>
       <th>Where</th>
     </tr>
   </thead>
