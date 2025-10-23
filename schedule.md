@@ -114,7 +114,7 @@
             <td>14:10</td>
             <td>Farrukh Baratov</td>
             <td>Leiden University</td>
-            <td>Breaking Bureaucracy: Benchmarking open-source LLMs on legal document review</td>
+            <td>Breaking Bureaucracy: Benchmarking open-source LLMs on legal document<br>review</td>
           </tr>
           <tr>
             <td>14:20</td>
