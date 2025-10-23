@@ -6,6 +6,6 @@ Faegheh Hasibi, Radboud University (Co-organizer)
 
 Harrie Oosterhuis, Radboud University (Co-organizer)
 
-Mohanna Hoveyda, Radboud University (Publicity Chair)
+Mohanna Hoveyda, Radboud University (Co-organizer)
 
 Heydar Soudani, Radboud University (Webmaster)
