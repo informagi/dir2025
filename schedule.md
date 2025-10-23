@@ -101,7 +101,7 @@
       <td>Oral Session #2</td>
       <td>MM00.029</td>
     </tr>
-    <tr>
+    <tr style="background-color: #f5f5f5;">
       <td colspan="3">
         <table style="width:100%; border-collapse: collapse; margin-top: 5px; table-layout: fixed;">
           <tr>
@@ -153,7 +153,7 @@
       <td>Oral Session #3</td>
       <td>MM00.029</td>
     </tr>
-    <tr>
+    <tr style="background-color: #f5f5f5;">
       <td colspan="3">
           <table style="width:100%; border-collapse: collapse; margin-top: 5px; table-layout: fixed;">
             <tr>
@@ -187,7 +187,7 @@
       <td>Poster Session</td>
       <td>Grand Cafe Iris</td>
     </tr>
-    <tr>
+    <tr style="background-color: #f5f5f5;">
       <td colspan="3">
           <table style="width:100%; border-collapse: collapse; margin-top: 5px; table-layout: fixed;">
             <tr>
