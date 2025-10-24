@@ -211,6 +211,11 @@
               <td>Unifying Search and Recommendation in LLMs via Gradient Multi-Subspace Tuning</td>
             </tr>
             <tr>
+              <td>Faegheh Hasibi</td>
+              <td>Radboud University</td>
+              <td>FACE: A Fine-grained Reference Free Evaluator for Conversational Recommender Systems</td>
+            </tr>
+            <tr>
               <td>Daria Alexander</td>
               <td>Radboud University</td>
               <td>In a Few Words: Comparing Weak Supervision and LLMs for Short Query Intent<br>Classification</td>
