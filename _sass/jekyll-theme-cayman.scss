@@ -441,8 +441,8 @@ a {
   }
 
   /* If you want the middle column to wrap instead of ellipsis: */
-  table.force-layout th:nth-child(2),
-  table.force-layout td:nth-child(2) {
+  table.force-layout th:last-child,
+  table.force-layout td:last-child {
     white-space: normal;               /* allow wrapping */
     overflow-wrap: anywhere;           /* break very long tokens */
     word-break: break-word;            /* legacy break */
